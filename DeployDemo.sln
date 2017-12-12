@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeployDemo", "AddToQueueFunc\DeployDemo.csproj", "{99009854-9535-4546-9858-06C5B33555C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueReader", "QueueReader\QueueReader.csproj", "{AC4B9CE5-84D2-4FB2-8B43-8E2AB45A8440}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueReader", "QueueReader\QueueReader.csproj", "{C501E2D3-8130-4360-BC42-E7B17EB5A4FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{99009854-9535-4546-9858-06C5B33555C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99009854-9535-4546-9858-06C5B33555C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99009854-9535-4546-9858-06C5B33555C7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AC4B9CE5-84D2-4FB2-8B43-8E2AB45A8440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC4B9CE5-84D2-4FB2-8B43-8E2AB45A8440}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC4B9CE5-84D2-4FB2-8B43-8E2AB45A8440}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC4B9CE5-84D2-4FB2-8B43-8E2AB45A8440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C501E2D3-8130-4360-BC42-E7B17EB5A4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C501E2D3-8130-4360-BC42-E7B17EB5A4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C501E2D3-8130-4360-BC42-E7B17EB5A4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C501E2D3-8130-4360-BC42-E7B17EB5A4FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

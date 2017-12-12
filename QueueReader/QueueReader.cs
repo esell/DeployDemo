@@ -9,7 +9,7 @@ namespace QueueReader
         [FunctionName("QueueReader")]
         public static void Run([EventHubTrigger("deployqueue", Connection = "EVENT_HUB_CONN")]string myEventHubMessage, TraceWriter log)
         {
-            log.Info($"C# Event Hub trigger function processed a message: {myEventHubMessage}");
+            log.Info($"Event Hub trigger function processed a message: {myEventHubMessage}");
         }
     }
 }
