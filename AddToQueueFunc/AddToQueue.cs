@@ -64,7 +64,7 @@ namespace DeployDemo
             catch (Exception ex) {
                 log.Error(ex.Message);
             }
-            return req.CreateResponse(HttpStatusCode.OK, "hi!");
+            return req.CreateResponse(HttpStatusCode.OK, template.ToString());
         }
     }
 }
